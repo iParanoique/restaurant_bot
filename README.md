@@ -26,3 +26,16 @@ pip install -r requirements.txt
 ```
 python3 main.py
 ```
+
+
+## Useful Resources to Learn
+
+- [Aiogram Docs](https://docs.aiogram.dev/en/latest/)
+- [Git and GitHub](https://www.digitalocean.com/community/tutorials/how-to-use-git-a-reference-guide)
+
+
+
+## Like This?? Star ⭐ this Repo.
+> by Evgeniy Popov
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
